@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "GiftApp"
+    }
+  },
+  "defaultProject": "GiftApp",
+  "cli": {
+    "analytics": false
+  }
 }
